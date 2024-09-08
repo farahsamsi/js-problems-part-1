@@ -23,3 +23,5 @@ const manHeight2 = inchToFeet2(75);
 const manHeight3 = inchToFeet2(89);
 // console.log('inch to feet2:', manHeight2);
 // console.log('inch to feet2:', manHeight3);
+
+
